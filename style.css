@@ -1,0 +1,25 @@
+p {
+    color: white;
+    background-color: PaleVioletRed;
+    font-family: "Helvetica", Arial, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  label {
+    color: RebeccaPurple;
+    background-color: yellow;
+    font-family: "Lucida Console";
+    font-size: 40px
+  }
+  textarea {
+    color: MediumVioletRed;
+    background-color: MistyRose;
+  }
+  table {
+    color: LightGoldenRodYellow;
+    background-color: LightSalmon;
+  }
+  body {
+    background-color: CornSilk;
+  }
